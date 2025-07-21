@@ -15,6 +15,13 @@
       "when": 1752155682456,
       "tag": "0001_real_human_robot",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753121310076,
+      "tag": "0002_wet_terrax",
+      "breakpoints": true
     }
   ]
 }
